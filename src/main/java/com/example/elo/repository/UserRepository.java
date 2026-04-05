@@ -1,6 +1,6 @@
-package com.example.demo.repository;
+package com.example.elo.repository;
 
-import com.example.demo.model.User;
+import com.example.elo.model.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

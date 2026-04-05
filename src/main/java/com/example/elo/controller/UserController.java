@@ -1,7 +1,7 @@
-package com.example.demo.controler;
+package com.example.elo.controller;
 
-import com.example.demo.model.User;
-import com.example.demo.repository.UserRepository;
+import com.example.elo.model.User;
+import com.example.elo.repository.UserRepository;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
